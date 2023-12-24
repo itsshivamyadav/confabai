@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/confabai/static/css/main.624fb7f0.css",
+    "main.js": "/confabai/static/js/main.a5647660.js",
+    "static/media/ai.png": "/confabai/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/logo.png": "/confabai/static/media/logo.ee97c21ff3416135a3c5.png",
+    "static/media/people.png": "/confabai/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/confabai/index.html",
+    "main.624fb7f0.css.map": "/confabai/static/css/main.624fb7f0.css.map",
+    "main.a5647660.js.map": "/confabai/static/js/main.a5647660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624fb7f0.css",
+    "static/js/main.a5647660.js"
+  ]
+}
